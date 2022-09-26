@@ -1,0 +1,5 @@
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/publish/CMPS358 PA1
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/publish/CMPS358 PA1.dll
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/publish/CMPS358 PA1.deps.json
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/publish/CMPS358 PA1.runtimeconfig.json
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/publish/CMPS358 PA1.pdb

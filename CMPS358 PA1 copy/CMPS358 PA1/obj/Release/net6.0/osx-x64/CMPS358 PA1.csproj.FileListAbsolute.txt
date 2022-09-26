@@ -1,0 +1,15 @@
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/CMPS358 PA1
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/CMPS358 PA1.deps.json
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/CMPS358 PA1.runtimeconfig.json
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/CMPS358 PA1.dll
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/bin/Release/net6.0/osx-x64/CMPS358 PA1.pdb
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.csproj.AssemblyReference.cache
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.AssemblyInfoInputs.cache
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.AssemblyInfo.cs
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.csproj.CoreCompileInputs.cache
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.dll
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/refint/CMPS358 PA1.dll
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.pdb
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/CMPS358 PA1.genruntimeconfig.cache
+/Users/luke/Desktop/Rider Projects/CMPS358 PA1/CMPS358 PA1/obj/Release/net6.0/osx-x64/ref/CMPS358 PA1.dll
